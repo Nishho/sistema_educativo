@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "9e22e28e-f3f1-45c6-9100-fd09b980f303",
+            "Value": {
+                "id": "b76668ce-c4a6-4901-bcfd-1b2b4befa5aa",
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9e508e27-9104-4928-b8df-b3313ef10e11",
             "Value": {
                 "id": "7872a4b7-a750-48d5-b73e-876a7346d801",
@@ -324,6 +332,14 @@
                 "id": "9718bb9a-c1d3-443d-9a27-b8c6fdf47e8b",
                 "resourcePath": "objects\\obj_motoSpawner2\\obj_motoSpawner2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c4e17ffb-4074-4c01-a7d6-c8da81e1dd14",
+            "Value": {
+                "id": "de4eaf9d-106f-435f-aec9-5debae568d1f",
+                "resourcePath": "sprites\\spr_game_over\\spr_game_over.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
