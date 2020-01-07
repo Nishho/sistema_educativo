@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "oAlternativa2",
     "eventList": [
-        {
-            "id": "f9aa5b31-1afa-4528-9db1-0b7d99c33f84",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "d9df201e-6c50-4088-8d2f-5f38d4a046e4"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

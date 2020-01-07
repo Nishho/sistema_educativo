@@ -10,5 +10,10 @@ if texto == "Jugar"
 
 if texto == "Salir"
 {
-	game_end();
+	room_goto(rm_gameover);
+}
+
+if texto == "Reiniciar"
+{
+	room_goto(Inicio);
 }

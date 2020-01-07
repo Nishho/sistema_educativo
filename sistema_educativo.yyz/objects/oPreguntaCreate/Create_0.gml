@@ -1,36 +1,13 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
-global.list=ds_list_create();
+global.a=irandom(9)*100
+global.b=irandom(9)*10
+global.c=irandom(9)
+global.d=irandom(9)*100
+global.e=irandom(9)*10
+global.f=irandom(9)
 
-for(i=1;i<4;i+=1)
-{
-	if(i==1){
-		ds_list_add(global.list,irandom(9)*100)
-	}
-	if(i==2){
-		ds_list_add(global.list,irandom(9)*10)
-	}else{
-		ds_list_add(global.list,irandom(9)*1)
-	}
+global.text1= global.a + global.b + global.c;
 
-}
-
-global.text1= ds_list_find_value(global.list,0) + ds_list_find_value(global.list,1) + ds_list_find_value(global.list,2) 
-
-global.list0=ds_list_create();
-
-for(i=1;i<4;i+=1)
-{
-	if(i==1){
-		ds_list_add(global.list0,irandom(9)*100)
-	}
-	if(i==2){
-		ds_list_add(global.list0,irandom(9)*10)
-	}else{
-		ds_list_add(global.list0,irandom(9)*1)
-	}
-
-}
-
-global.text0 = ds_list_find_value(global.list0,0) + ds_list_find_value(global.list0,1) + ds_list_find_value(global.list0,2) 
+global.text0 = global.d + global.e + global.f;
