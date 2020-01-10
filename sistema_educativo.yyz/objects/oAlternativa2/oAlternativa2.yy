@@ -1,5 +1,5 @@
 {
-    "id": "d9df201e-6c50-4088-8d2f-5f38d4a046e4",
+    "id": "29de0505-2b69-43dd-90b8-53d58399bcfe",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oAlternativa2",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "1003a898-e755-4136-86a1-3dc48f45ac0d",
     "visible": true
 }

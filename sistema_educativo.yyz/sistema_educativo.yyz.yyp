@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1003a898-e755-4136-86a1-3dc48f45ac0d",
+            "Value": {
+                "id": "766ee638-c01d-49d3-b698-7a2dff70bdb3",
+                "resourcePath": "sprites\\spr_alternativa\\spr_alternativa.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "176b120c-10b2-457a-aae2-5f793e028edc",
             "Value": {
                 "id": "9f40a9be-dbbc-426d-9c3f-c23c4058d76a",
@@ -103,6 +111,14 @@
             }
         },
         {
+            "Key": "29de0505-2b69-43dd-90b8-53d58399bcfe",
+            "Value": {
+                "id": "5a80f0ca-a889-4339-a09f-0abf1cb8b62c",
+                "resourcePath": "objects\\oAlternativa2\\oAlternativa2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2bf2973c-e2cd-4f1b-9de7-4a68e2472b29",
             "Value": {
                 "id": "e6501c05-b9a7-4a16-b0cf-94dba1d48c52",
@@ -127,11 +143,11 @@
             }
         },
         {
-            "Key": "3ec769b8-3757-46ad-a787-985a0c526dc3",
+            "Key": "3f484df0-dbed-452b-a1de-e38fb190ab53",
             "Value": {
-                "id": "ecd2b737-dfc7-4be7-901a-f060e31e4814",
-                "resourcePath": "objects\\obj_paredabajo\\obj_paredabajo.yy",
-                "resourceType": "GMObject"
+                "id": "3666e6b0-6fa1-4334-b62c-3cb3575f2874",
+                "resourcePath": "sprites\\spr_reserva\\spr_reserva.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -195,6 +211,14 @@
             "Value": {
                 "id": "af2433f7-7808-4b3a-ab56-cef10aa38348",
                 "resourcePath": "objects\\oAlternativa1\\oAlternativa1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "57aec716-2d83-4e13-a787-7a5b879c66ca",
+            "Value": {
+                "id": "ae772b5c-955c-42d8-9f89-fc1214954cc6",
+                "resourcePath": "objects\\obj_pared\\obj_pared.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -271,6 +295,14 @@
             }
         },
         {
+            "Key": "846e18c5-130b-4d7f-bd88-b7304051f197",
+            "Value": {
+                "id": "9df4cfa0-d936-47f7-bd5d-26113d85cc11",
+                "resourcePath": "sprites\\sprite16\\sprite16.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8c757f31-c9f8-430b-8b54-96fb276a6a15",
             "Value": {
                 "id": "14680eb8-73a9-486f-a6e3-d644412b2458",
@@ -299,14 +331,6 @@
             "Value": {
                 "id": "7872a4b7-a750-48d5-b73e-876a7346d801",
                 "resourcePath": "objects\\obj_motoSpawner1\\obj_motoSpawner1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "aab49560-5454-44db-9214-6090df43e58e",
-            "Value": {
-                "id": "5f30a9dd-8453-4b11-af0c-83fec76e04bc",
-                "resourcePath": "objects\\obj_pared\\obj_pared.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -359,19 +383,19 @@
             }
         },
         {
-            "Key": "d9df201e-6c50-4088-8d2f-5f38d4a046e4",
-            "Value": {
-                "id": "0e9c5096-acfb-48c2-939b-d0000d5065eb",
-                "resourcePath": "objects\\oAlternativa2\\oAlternativa2.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "da724994-63b3-4b61-847b-d27fb1045286",
             "Value": {
                 "id": "87006c0f-0644-4d5a-b209-2870594639e3",
                 "resourcePath": "sprites\\sprite2\\sprite2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df72f722-ffb6-4d27-907e-9c6b119e175f",
+            "Value": {
+                "id": "9cdc7149-e8d4-4e5c-9e29-c94ae941ba9c",
+                "resourcePath": "objects\\obj_paredAbajo\\obj_paredAbajo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
