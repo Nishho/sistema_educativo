@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "788d7bee-bd13-47d2-bccf-978062c6b7da",
+            "Value": {
+                "id": "64c533bb-2c09-4d4f-a1c0-7244eb469db2",
+                "resourcePath": "fonts\\font_pregunta\\font_pregunta.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "78aa2db0-5467-4f31-9750-5adff41ce7db",
             "Value": {
                 "id": "304dbb22-8e4c-4595-8de0-c46c1a50db59",
