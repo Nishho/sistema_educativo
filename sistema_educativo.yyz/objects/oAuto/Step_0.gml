@@ -5,21 +5,21 @@ if(global.golpe) exit;
 
 if keyboard_check(vk_right)
 	{
-		x += 4
+		x += 5
 	}
 	
 if keyboard_check(vk_left)
 	{	
-		x -=4
+		x -=5
 	}
 
 if keyboard_check(vk_up)
 	{	
-		y -=4
+		y -=5
 	}
 
 if keyboard_check(vk_down)
 	{	
-		y +=4
+		y +=5
 	}
 	

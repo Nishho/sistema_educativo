@@ -1,8 +1,8 @@
 {
-    "id": "df72f722-ffb6-4d27-907e-9c6b119e175f",
+    "id": "3ec769b8-3757-46ad-a787-985a0c526dc3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_paredAbajo",
+    "name": "obj_paredabajo",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "846e18c5-130b-4d7f-bd88-b7304051f197",
+    "spriteId": "06bf88a9-9249-4923-97e0-e800f9aabb30",
     "visible": false
 }
