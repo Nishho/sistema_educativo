@@ -1,3 +1,8 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-y+=2
+
+if(sprite_index==spr_moto){
+	
+y+=2;
+
+}

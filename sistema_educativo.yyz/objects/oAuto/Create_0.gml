@@ -2,8 +2,10 @@
 // Puede escribir su código en este editor
 
 //iniciar Sprite
+
+
+x=348
+y=614
 sprite_index = sAuto1;
 image_speed = 0;
 image_index = 0;
-
-//velocidad = 4;

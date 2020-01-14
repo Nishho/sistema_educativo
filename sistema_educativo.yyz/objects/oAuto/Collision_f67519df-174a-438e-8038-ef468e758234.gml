@@ -11,8 +11,3 @@ if(global.golpe == false)
 	global.golpe = true;
 	
 }
-
-with(other)
-{
-	instance_destroy();
-}
