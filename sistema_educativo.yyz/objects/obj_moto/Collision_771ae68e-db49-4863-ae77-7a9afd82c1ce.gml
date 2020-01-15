@@ -2,5 +2,5 @@
 // Puede escribir su código en este editor
 
 
-alarm[0]=10;
+alarm[0]=30;
 sprite_index=smotoDestruir;
