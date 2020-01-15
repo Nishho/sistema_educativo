@@ -4,5 +4,5 @@
 spawnRate = 120;
 alarm[0] = spawnRate;
 */
-spawnRate = 1;
+spawnRate = 30;
 alarm[0] = spawnRate;

@@ -3,8 +3,23 @@
 if(global.alternativacorrecta == 1){
 	global.puntos +=50;
 	global.ciclo += 1;
+
+instance_deactivate_object(oAlternativa1);
+instance_deactivate_object(oAlternativa2);
+instance_deactivate_object(oAlternativa3);
 instance_destroy(oAlternativa1);
 instance_destroy(oAlternativa2);
 instance_destroy(oAlternativa3);
-alarm[0]=20;
+
+}else{
+	
+global.puntos -= 20;
+
+instance_deactivate_object(oAlternativa1);
+instance_deactivate_object(oAlternativa2);
+instance_deactivate_object(oAlternativa3);
+instance_destroy(oAlternativa1);
+instance_destroy(oAlternativa2);
+instance_destroy(oAlternativa3);
+
 }

@@ -2,14 +2,24 @@
 // Puede escribir su código en este editor
 
 if(global.alternativacorrecta == 2){
-	alarm[0] = 40;
 	global.puntos +=50;
 	global.ciclo += 1;
 	
-	instance_position(0,-39,oAlternativa3);
-	instance_position(0,-39,oAlternativa2);
-	instance_position(0,-39,oAlternativa1);
-
-
+instance_deactivate_object(oAlternativa1);
+instance_deactivate_object(oAlternativa2);
+instance_deactivate_object(oAlternativa3);
+instance_destroy(oAlternativa1);
+instance_destroy(oAlternativa2);
+instance_destroy(oAlternativa3);
 	
+}else{
+	
+global.puntos -= 20;
+
+instance_deactivate_object(oAlternativa1);
+instance_deactivate_object(oAlternativa2);
+instance_deactivate_object(oAlternativa3);
+instance_destroy(oAlternativa1);
+instance_destroy(oAlternativa2);
+instance_destroy(oAlternativa3);
 }
