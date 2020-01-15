@@ -3,16 +3,18 @@
 
 if(global.ciclo==1){
 
-if(global.alternativacorrecta == 2){
-	draw_set_font(font_pregunta)
-	texto = string(global.u1+global.u2);
-	draw_text(440,70,texto)
-	instance_create_layer(700,320,"instances",obj_davinci);
-}
-if (global.alternativacorrecta <> 2){
-	draw_set_font(font_pregunta)
-	draw_text(440,70,texto)
-}
+	if(global.alternativacorrecta == 2)
+	{
+		draw_set_font(font_pregunta)
+		texto = string(global.u1+global.u2);
+		draw_text(440,70,texto)
+	
+	}
+	if (global.alternativacorrecta <> 2)
+	{
+		draw_set_font(font_pregunta)
+		draw_text(440,70,texto)
+	}
 
 }
 

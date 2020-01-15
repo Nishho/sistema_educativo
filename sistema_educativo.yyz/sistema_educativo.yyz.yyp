@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "57408d64-fdf5-4d50-b035-bbd706d0498e",
+            "Value": {
+                "id": "cd5dcd74-1c65-42dc-b302-4438084d0ed2",
+                "resourcePath": "objects\\obj_davinci2\\obj_davinci2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57aec716-2d83-4e13-a787-7a5b879c66ca",
             "Value": {
                 "id": "ae772b5c-955c-42d8-9f89-fc1214954cc6",
@@ -427,6 +435,14 @@
             "Value": {
                 "id": "11cbdc97-9581-4c4d-8ef0-686480063ef5",
                 "resourcePath": "objects\\obj_motoSpawner\\obj_motoSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eda15065-8c97-4249-aea1-5289a7976749",
+            "Value": {
+                "id": "de4e5922-b663-4d19-87b5-18cb28e88df3",
+                "resourcePath": "objects\\obj_davinci3\\obj_davinci3.yy",
                 "resourceType": "GMObject"
             }
         },

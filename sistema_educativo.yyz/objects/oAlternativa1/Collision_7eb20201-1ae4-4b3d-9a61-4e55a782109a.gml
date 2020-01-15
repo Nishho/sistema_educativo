@@ -6,7 +6,16 @@ if(global.alternativacorrecta == 0){
 	instance_create_layer(440,200,"Instances",obj_res_mala);
 	instance_create_layer(300,200,"Instances",obj_res_mala);
 	instance_create_layer(160,200,"Instances",obj_res_buena);
-	instance_create_layer(700,320,"instances",obj_davinci);
+	
+	
+	if(global.ciclo==1)
+		instance_create_layer(700,320,"instances",obj_davinci);
+	if(global.ciclo==2)
+		instance_create_layer(700,320,"instances",obj_davinci2);
+	if(global.ciclo==3)
+		instance_create_layer(700,320,"instances",obj_davinci3);
+	
+	
 	
 instance_deactivate_object(oAlternativa1);
 instance_deactivate_object(oAlternativa2);
