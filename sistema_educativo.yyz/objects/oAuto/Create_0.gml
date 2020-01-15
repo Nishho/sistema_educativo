@@ -1,7 +1,7 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
-//iniciar Sprite
+//iniciar Sprite bacan
 
 
 x=348
