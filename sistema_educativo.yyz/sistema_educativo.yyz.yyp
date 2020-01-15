@@ -103,10 +103,26 @@
             }
         },
         {
+            "Key": "28d54955-0da3-4c33-8ad5-e30589e008da",
+            "Value": {
+                "id": "bd34c587-024c-4b26-b940-0d94d2add573",
+                "resourcePath": "objects\\obj_davinci\\obj_davinci.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "29de0505-2b69-43dd-90b8-53d58399bcfe",
             "Value": {
                 "id": "5a80f0ca-a889-4339-a09f-0abf1cb8b62c",
                 "resourcePath": "objects\\oAlternativa2\\oAlternativa2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2b47ba06-aa21-496a-942b-382d67df1aa8",
+            "Value": {
+                "id": "654f100a-5013-43c0-93f3-08d8fcc1056f",
+                "resourcePath": "objects\\obj_res_buena\\obj_res_buena.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -295,6 +311,30 @@
             }
         },
         {
+            "Key": "8e5d4ca4-74c1-460d-9738-e496c74a1dee",
+            "Value": {
+                "id": "855358d3-8c94-4bbc-a087-2b2aac612e9e",
+                "resourcePath": "sprites\\spr_buena\\spr_buena.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8edde43a-ce45-4311-9f1d-a7055907917c",
+            "Value": {
+                "id": "71d793ed-51a6-4589-b573-65769bf57c13",
+                "resourcePath": "timelines\\timeline0\\timeline0.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
+            "Key": "90ba660a-cd91-476d-8431-60c7f87735c8",
+            "Value": {
+                "id": "6db58203-bc03-4492-86b2-85a60bfe0c90",
+                "resourcePath": "sprites\\spr_mala\\spr_mala.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94e1ec6b-6deb-48c3-9538-d206308660b9",
             "Value": {
                 "id": "ab342041-b3ca-4d63-85a3-8aa5ca7ca9e9",
@@ -356,6 +396,14 @@
                 "id": "de4eaf9d-106f-435f-aec9-5debae568d1f",
                 "resourcePath": "sprites\\spr_game_over\\spr_game_over.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cbd8f4b4-b315-4cc7-8d0d-3a2d4fd3263e",
+            "Value": {
+                "id": "fead2175-177b-473c-9ac9-9c4e1217ee5d",
+                "resourcePath": "objects\\obj_res_mala\\obj_res_mala.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -4,3 +4,4 @@
 global.puntos = 0;
 global.vidas = 3;
 global.golpe = false;
+

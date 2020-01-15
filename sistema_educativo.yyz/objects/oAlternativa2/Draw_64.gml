@@ -8,6 +8,7 @@ if(global.alternativacorrecta == 1){
 	draw_set_font(font_pregunta)
 	texto = string(global.u1+global.u2);
 	draw_text(300,70,texto)
+	
 }
 if (global.alternativacorrecta <> 1){
 	draw_set_font(font_pregunta)
@@ -23,6 +24,7 @@ if(global.alternativacorrecta == 1){
 	draw_set_font(font_pregunta)
 	texto = string(global.d1+global.d2)
 	draw_text(300,70,texto)
+	
 }
 if (global.alternativacorrecta <> 1){
 	draw_set_font(font_pregunta)
@@ -37,6 +39,7 @@ if(global.alternativacorrecta == 1){
 	draw_set_font(font_pregunta)
 	texto = string(global.c1+global.c2)
 	draw_text(300,70,texto)
+	
 }
 if (global.alternativacorrecta <> 1){
 	draw_set_font(font_pregunta)

@@ -7,6 +7,7 @@ if(global.alternativacorrecta == 2){
 	draw_set_font(font_pregunta)
 	texto = string(global.u1+global.u2);
 	draw_text(440,70,texto)
+	instance_create_layer(700,320,"instances",obj_davinci);
 }
 if (global.alternativacorrecta <> 2){
 	draw_set_font(font_pregunta)
@@ -22,6 +23,7 @@ if(global.alternativacorrecta == 2){
 	draw_set_font(font_pregunta)
 	texto = string(global.d1+global.d2)
 	draw_text(440,70,texto)
+	
 }
 if (global.alternativacorrecta <> 2){
 	draw_set_font(font_pregunta)
@@ -36,7 +38,8 @@ if(global.ciclo == 3){
 if(global.alternativacorrecta == 2){
 	draw_set_font(font_pregunta)
 	texto = string(global.c1+global.c2)
-	draw_text(440,70,texto)
+	draw_text(440,70,texto);
+	
 }
 if (global.alternativacorrecta <> 2){
 	draw_set_font(font_pregunta)
@@ -48,6 +51,6 @@ if (global.alternativacorrecta <> 2){
 if(global.ciclo > 3){
 	
 instance_destroy(oPregunta);
-instance_create_layer(0,0,"Instances",oPreguntaCreate);
+
 
 }
