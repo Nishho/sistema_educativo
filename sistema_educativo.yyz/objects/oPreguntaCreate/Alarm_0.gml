@@ -3,3 +3,4 @@
 instance_destroy(oPregunta);
 instance_create_layer(150, 300,"Instances",oPregunta);
 alarm[0] = 1200;
+
